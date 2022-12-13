@@ -1,3 +1,7 @@
+# Build settings
+markdown: kramdown
+remote_theme: modernist
+
 ## Exercise1
 
 Writing in Markdown is _not_ that hard!
